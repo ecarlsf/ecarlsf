@@ -42,7 +42,21 @@ I write about AI agents, product development, and the cognitive science behind b
 
 ### Tech & Tools
 
-`Python` `Claude / Anthropic API` `Multi-Agent Systems` `Neo4j` `PostgreSQL` `Structured Outputs` `Product Strategy`
+**Languages:** `Python` `TypeScript` `SQL`
+
+**AI/ML:** `Anthropic Claude API` `Claude Agent SDK` `LangChain` `LlamaIndex` `Structured Outputs` `RAG`
+
+**Backend:** `FastAPI` `NestJS` `Next.js` `tRPC` `gRPC`
+
+**Data:** `PostgreSQL` `Neo4j` `Qdrant` `MongoDB` `Redis` `pgvector` `Prisma` `Drizzle ORM` `SQLAlchemy`
+
+**Infrastructure:** `Docker` `Google Cloud (Run, Pub/Sub, Tasks, Storage)` `Vercel` `GitHub Actions`
+
+**Frontend:** `React` `Tailwind CSS` `Zustand` `React Query`
+
+**Testing:** `Pytest` `Jest` `Playwright` `Pact` `Vitest`
+
+**Monitoring:** `Sentry` `PostHog` `Prometheus` `Grafana`
 
 ---
 
