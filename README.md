@@ -13,6 +13,7 @@ I build AI systems that turn messy, unstructured domain knowledge into determini
 
 ### What I Work On
 
+- **[Navigator](https://github.com/conclave-ai/navigator)** — AI-powered development platform that integrates AI across the full product lifecycle: discovery, story writing, backlog management, and TDD-enforced coding agents in isolated cloud sandboxes. Built with Next.js, tRPC, Prisma, Claude Agent SDK, and E2B.
 - **Multi-agent AI systems** for deterministic, verifiable domains — where getting it wrong has real cost
 - **Constrained agent patterns** — Six Thinking Hats, Dialectic reasoning, Pre-Mortem analysis as practical frameworks for reliable AI decision-making
 - **The judgment layer** — tooling and frameworks for the upstream decisions that AI coding tools can't make for you
