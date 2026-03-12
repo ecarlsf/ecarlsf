@@ -4,25 +4,27 @@
 
 10+ years in product management, with deep experience building search, recommendation, and generative AI products at scale. Ex-Udemy, Amazon, Tesla.
 
-I build AI systems that turn messy, unstructured domain knowledge into deterministic, auditable outputs. My architecture work is informed by cognitive neuropsychology — treating hallucination as a design constraint, not just a bug.
+I build AI systems that turn messy, unstructured domain knowledge into deterministic, auditable outputs. My architecture work is informed by cognitive science — treating hallucination as a design constraint, not just a bug.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-carlson/)
 [![Kaizen](https://img.shields.io/badge/Kaizen-kaizenpro.io-blue?style=flat)](https://kaizenpro.io)
+[![Navigator](https://img.shields.io/badge/Navigator-navigator.dev-8B5CF6?style=flat)](https://navigator.dev/)
 
 ---
 
 ### What I Work On
 
-- **[Navigator](https://github.com/conclave-ai/navigator)** — AI-powered development platform that integrates AI across the full product lifecycle: discovery, story writing, backlog management, and TDD-enforced coding agents in isolated cloud sandboxes. Built with Next.js, tRPC, Prisma, Claude Agent SDK, and E2B.
+- **[Agent Fluency Score](https://github.com/ecarlsf/agent-fluency-score)** — Open-source benchmark measuring how well developer tools work with AI coding agents
+- **[Navigator](https://navigator.dev/)** — AI-powered development platform that integrates AI across the full product lifecycle: discovery, story writing, backlog management, and TDD-enforced coding agents in isolated cloud sandboxes. Built with Next.js, tRPC, Prisma, Claude Agent SDK, and E2B.
 - **Multi-agent AI systems** for deterministic, verifiable domains — where getting it wrong has real cost
 - **Constrained agent patterns** — Six Thinking Hats, Dialectic reasoning, Pre-Mortem analysis as practical frameworks for reliable AI decision-making
 - **The judgment layer** — tooling and frameworks for the upstream decisions that AI coding tools can't make for you
 
 ### What I Think About
 
-- Why LLM hallucinations might be features, not bugs — and what cognitive neuropsychology tells us about building better agents
+- Why LLM hallucinations might be features, not bugs — and what cognitive science tells us about building better agents
 - **Decision debt**: the hidden cost of moving fast with AI tools without resolving upstream ambiguity
-- How neuropsychology-inspired design maps onto multi-agent architecture
+- How cognitive science-inspired design maps onto multi-agent architecture
 - The "what to build" gap — execution speed is commoditized, judgment isn't
 
 ### Career Highlights
